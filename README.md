@@ -44,7 +44,8 @@ GIF created with ...  Add GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+Describe any challenges encountered while building the app or any additional context you'd like to add:
+Continuing to learn how to use pico css. 
 
 ## License
 
