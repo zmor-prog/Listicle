@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SuperShine</title>
+    <link rel="icon" type="image/x-icon" href="/logo.png">
+    <!-- <link rel="stylesheet" href="./style.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+      .image-container, .gift-details {
+        max-width: 50%;
+        margin: 0 auto;
+        display: block;
+      }
+      .header-left {
+        float: left;
+        height: 100px;
+        width: 310px;
+    }
+    .header-left h1 {
+      float: right;
+      font-size: 40px;
+  }
+    .header-right {
+      float: right;
+      padding-top: 30px;
+      padding-right: 10px;
+   }
+   .header-left img {
+    padding-top: 8px;
+    height: 80px;
+    }
+    p {
+      font-size: 18px;
+    }
+    </style>
+    <script defer src="/scripts/header.js"></script>
+    <script defer src="/scripts/gift.js"></script>
+  </head>
+
+  <body>
+    <header></header>
+    <main id="gift-content" class="gift-info">
+        <div class="image-container">
+            <img id="image" src="">
+        </div> 
+        <div class="gift-details">
+            <h3 id="name"></h3>
+            <p id="submittedBy"></p>
+            <p id="submittedOn"></p>
+            <p id="pricePoint"></p>
+            <p id="audience"></p>
+            <p id="description"></p>
+        </div>    
+    </main>
+  </body>
+
+</html>
