@@ -7,7 +7,7 @@ const giftData = [
         "image":"https://images.unsplash.com/photo-1517498327491-f903e1e281cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1836&q=80",
         "description":"First determine if your skin type is oily, normal, combination, or dry to proceed to other tips.",
         "submittedBy":"ZM",
-        "submittedOn":"September 2023"
+        "submittedOn":"2023-09-23"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@ const giftData = [
         "image":"https://plus.unsplash.com/premium_photo-1664543258883-cadf6a943fdc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
         "description":"In the morning cleanse your face with water, and facial soap to give yourself a fresh start of the day.",
         "submittedBy":"ZM",
-        "submittedOn":"September 2023"
+        "submittedOn":"2023-09-23"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@ const giftData = [
         "image":"https://images.unsplash.com/photo-1594332322527-08753d4473c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
         "description":"Always be prepared with sunscreen whenever your outside to protect your skin from the harsh sun.",
         "submittedBy":"ZM",
-        "submittedOn":"September 2023"
+        "submittedOn":"2023-09-23"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@ const giftData = [
         "image":"https://images.unsplash.com/photo-1570554520913-ce2192a74574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
         "description":"At night always cleanse your face to wash of the dirt from during the day for a fresh evening.",
         "submittedBy":"ZM",
-        "submittedOn":"September 2023"
+        "submittedOn":"2023-09-23"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@ const giftData = [
         "image":"https://images.unsplash.com/photo-1606756790138-261d2b21cd75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80",
         "description":"Discover what foods are good for your skin.",
         "submittedBy":"ZM",
-        "submittedOn":"September 2023"
+        "submittedOn":"2023-09-23"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@ const giftData = [
         "image":"https://plus.unsplash.com/premium_photo-1672784161836-f2148e1dfdaf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
         "description":"Always find a time to excercise during the week.",
         "submittedBy":"ZM",
-        "submittedOn":"September 2023"
+        "submittedOn":"2023-09-23"
     }
 
   ]
